@@ -1,0 +1,14 @@
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\bin\Debug\net8.0\zoo_visit.exe
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\bin\Debug\net8.0\zoo_visit.deps.json
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\bin\Debug\net8.0\zoo_visit.runtimeconfig.json
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\bin\Debug\net8.0\zoo_visit.dll
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\bin\Debug\net8.0\zoo_visit.pdb
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.AssemblyInfoInputs.cache
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.AssemblyInfo.cs
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.csproj.CoreCompileInputs.cache
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.dll
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\refint\zoo_visit.dll
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.pdb
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\zoo_visit.genruntimeconfig.cache
+C:\Users\raulb\Desktop\practicas_cs_2024\zoo_visit\obj\Debug\net8.0\ref\zoo_visit.dll
