@@ -12,8 +12,8 @@ _In this challenge, you're given some starting code. You must determine what met
 
 - There are also two uninitialized variables:
 
-1. target: The random target number between 1 and 5
-2. roll: The result of a random six-sided die roll
+  1. target: The random target number between 1 and 5
+  2. roll: The result of a random six-sided die roll
 
 # Desafío de minijuego de dados
 
@@ -29,5 +29,5 @@ _En este desafío, se le proporciona un código inicial. Debe determinar qué m�
 
 - También hay dos variables sin inicializar:
 
-1. target: el número objetivo aleatorio entre 1 y 5
-2. roll: el resultado de una tirada aleatoria de un dado de seis caras
+  1. target: el número objetivo aleatorio entre 1 y 5
+  2. roll: el resultado de una tirada aleatoria de un dado de seis caras
