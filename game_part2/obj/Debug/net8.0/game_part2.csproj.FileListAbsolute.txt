@@ -1,0 +1,15 @@
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\bin\Debug\net8.0\game_part2.exe
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\bin\Debug\net8.0\game_part2.deps.json
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\bin\Debug\net8.0\game_part2.runtimeconfig.json
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\bin\Debug\net8.0\game_part2.dll
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\bin\Debug\net8.0\game_part2.pdb
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.AssemblyInfoInputs.cache
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.AssemblyInfo.cs
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.csproj.CoreCompileInputs.cache
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.sourcelink.json
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.dll
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\refint\game_part2.dll
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.pdb
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\game_part2.genruntimeconfig.cache
+C:\Users\raulb\Desktop\practicas_cs_2024\game_part2\obj\Debug\net8.0\ref\game_part2.dll
